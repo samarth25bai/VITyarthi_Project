@@ -14,17 +14,17 @@ It’s perfect for 1st-year engineering students, Python beginners, or anyone le
 
 # Features
 
-✔ Predicts diseases based on user-entered symptoms
+ Predicts diseases based on user-entered symptoms
 
-✔ Rule-based logic (no external libraries required)
+ Rule-based logic (no external libraries required)
 
-✔ Clean & modular Python code
+ Clean & modular Python code
 
-✔ Supports multiple symptoms
+ Supports multiple symptoms
 
-✔ Beginner-friendly
+ Beginner-friendly
 
-✔ Ready for college project submission
+ Ready for college project submission
 
 
 
